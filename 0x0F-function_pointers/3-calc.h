@@ -2,8 +2,6 @@
 #define CALC_H
 
 /*
- * File: 3-calc.h
- * Auth: Godwin Dogbey
  * Desc: Header file containing all structures and
  *       prototypes used by the 3-main.c program.
  */
