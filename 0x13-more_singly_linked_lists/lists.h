@@ -2,7 +2,6 @@
 #define LISTS_H
 
 /*
- * Auth: Godwin Dogbey
  * Desc: Header file containing prototypes and definitions for all functions
  *       and types written in the 0x12-more_singly_linked_lists directory.
  */
@@ -15,7 +14,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for ALX Project
+ * for Holberton project
  */
 typedef struct listint_s
 {
