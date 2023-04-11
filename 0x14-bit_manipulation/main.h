@@ -1,10 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/*
- * Auth: Godwin Dogbey 
- * Desc: Header file containing prototypes for all functions
- */
 
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
